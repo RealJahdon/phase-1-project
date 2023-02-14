@@ -50,7 +50,7 @@ It will add the class `visible` if it doesn't exist or remove it if it already e
 you can install and view my project below
 
 ```shell
-$ npm install https://github.com/RealJahdon/Phase-1-project.git
+$ npm install https://github.com/RealJahdon/phase-1-project.git
 ```
 
 ### Requirements
