@@ -16,35 +16,6 @@ This project is completely responsive to different screen sizes wether you minim
 
 `Section 4: Contact`
 
-## Usage
-
-The 2 Javascript methods i have used in my project
-
-```shell
-$.classList.remove()
-
-$.classList.toggle()
-```
-
-the classList property is used to access an elements list of classes. It allows us to add, remove, replace, toggle specified CSS classes, for example if i had a class called `class-one` and `visible`:
-
-
-`REMOVE` classes
-
-```javascript
-element.classList.remove('class-one');
-console.log(element.classList);
-```
-Now we removed the class called `class-one` from the element.
-
-`TOGGLE` classes
-
-```javascript
-element.classList.toggle('visible');
-console.log(element.classList);
-```
-It will add the class `visible` if it doesn't exist or remove it if it already existed.
-
 ## Installation
 
 you can install and view my project below
