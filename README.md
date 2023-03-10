@@ -10,11 +10,13 @@ This project is completely responsive to different screen sizes wether you minim
 
 `Section 1: Heading`
 
-`Section 2: Video gallery`
+`Section 2: Cars List`
 
-`Section 3: Image gallery`
+`Section 3: Video gallery`
 
-`Section 4: Contact`
+`Section 4: Image gallery`
+
+`Section 5: Contact`
 
 ## Installation
 
